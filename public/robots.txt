@@ -1,3 +1,10 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+
+<img
+            src="https://themes.getbootstrap.com/wp-content/uploads/2021/05/soft-ui-design-system-thumbnail-1200x900.jpg"
+            alt=""
+            className="w-full object-cover"
+          />
